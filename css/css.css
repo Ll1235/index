@@ -7,4 +7,6 @@ body {
 	font-size: 14px;
 	color: black;
 	height: 1200px;
+	width: 100%;
+	margin-bottom: 100px;
 }
