@@ -3,3 +3,5 @@ function sayBye(){
 }
 
 sayBye();
+
+let a = 5;
