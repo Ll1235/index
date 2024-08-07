@@ -14,3 +14,6 @@ body {
 	margin-left: 100px;
 }
 
+html {
+	color: inherit;
+}
