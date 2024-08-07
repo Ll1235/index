@@ -1,5 +1,3 @@
-function sayBye(){
-	alert('Bye!')
+function sayHello(){
+	alert('Hello World');
 }
-
-sayBye();
